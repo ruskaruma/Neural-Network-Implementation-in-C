@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-#include"network.h"
+#include"neurnet.h"
 
 float weights1[inputLayer][hiddenLayer];
 float weights2[hiddenLayer][outputLayer];

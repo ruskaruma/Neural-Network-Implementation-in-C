@@ -1,5 +1,5 @@
-#ifndef network.h
-#define network.h
+#ifndef neurenet.h
+#define neurnet.h
 #define inputLayer 2
 #define hiddenLayer 3
 #define outputLayer 1
